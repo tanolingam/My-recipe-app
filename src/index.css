@@ -3,12 +3,12 @@
 }
 
 header{
-  background-color: #043802;
+  background-color: #63d6ea;
   padding: 20px;
 }
 
 h1{
-  color: aliceblue;
+  color: rgb(51, 51, 200);
   margin: 0;
 }
 
@@ -28,8 +28,8 @@ h1{
 }
 
 .search-button {
-  background-color: #258220;
-  color: white;
+  background-color: #79e7ed;
+  color: rgb(122, 133, 237);
   border: 1px solid;
   padding: 10px;
   border-radius: 5px;
@@ -46,7 +46,7 @@ h1{
 .recipe {
   width: 300px;
   margin: 20px;
-  border: 1px solid #ddd;
+  border: 1px solid #e6b8b8;
   border-radius: 5px;
   padding: 10px;
   text-align: left;
@@ -76,7 +76,7 @@ h1{
 
 .recipe-link {
   display: block;
-  background-color: #258220;
+  background-color: #204a82;
   color: aliceblue;
   border-radius: 5px;
   padding: 10px;
